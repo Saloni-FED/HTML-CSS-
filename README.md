@@ -1,2 +1,2 @@
-##Basic html and css project 
+Basic html and css project 
 
